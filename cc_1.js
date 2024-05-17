@@ -1,5 +1,4 @@
 //U08282838
-  
 // Function that inputs any bill and returns the tip
 function calcTip(bill) {
     // Inital setup up of a ternary operator to calculate tip
